@@ -1,4 +1,5 @@
 Calculator.js: a node.js Demonstration Project
+<br>
 [![Build Status](https://dev.azure.com/sypengk/test0615-b/_apis/build/status/humoncy.calculator?branchName=master)](https://dev.azure.com/sypengk/test0615-b/_build/latest?definitionId=5&branchName=master)
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
